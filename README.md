@@ -1,5 +1,6 @@
 # UbunchuMangaID
-Kumpulan manga atau komik Jepang yang bercerita tentang Ubuntu, yang judul manga nya bernama Ubunchu.
+Kumpulan manga atau komik Jepang yang bercerita tentang Ubuntu, yang judul manga nya bernama Ubunchu. Beberapa masih ada yang pake bahasa Jepang, yaitu episode 10 dan 11, sedangkan episode 9 sudah pake bahasa Inggris. Jika ingin bantu membuat translasi ke bahasa Indonesia nya, bisa ambil sumber mentah nya dari repo ini, dan nanti tinggal lakukan saja Pull Request untuk upload yang versi yang sudah di translasi ke bahasa Indonesia.
+
 
 
 ## Lisensi
@@ -39,6 +40,9 @@ Kaku-sen: http://www.aerialline.com/comics/ubunchu/ (Japanese)
 ASCII MEDIA WORKS Inc. http://www.ascii.co.jp/
 "KANTAN UBUNTU!" http://ascii.asciimw.jp/books/books/detail/978-4-04-870035-1.shtml
 Creative Commons http://creativecommons.org/
+
+## Versi Indonesia
+Versi bahasa Indonesia diperoleh dari halaman http://www.linux.or.id di bagian Komik Linux
 
 
 # ChangeLog
